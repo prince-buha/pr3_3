@@ -4,7 +4,7 @@ void main()
 {
  int i\=0,n;
  clrscr();
- printf("enter your value of N");
+ printf("enter your value of ");
  scanf("%d",&n);
  while(n!=0)
  {
